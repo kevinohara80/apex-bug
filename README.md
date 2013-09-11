@@ -5,7 +5,7 @@ Community-driven Apex and Visualforce bug/issue tracking
 
 ## Overview
 
-This repository is an [issues-only](https://github.com/kevinohara80/apex-bug/issues) repository for submitting reproducable issues with Apex and Visualforce.
+This repository is an [issues-only](https://github.com/kevinohara80/apex-bug/issues) repository for submitting new, reproducable issues with Apex and Visualforce. The goal of submitting these issues is to help identify previously unknown issues and get them submitted to the [Known Issues](https://success.salesforce.com/issues_index) site.
 
 ## Submission Rules
 
@@ -20,12 +20,23 @@ All issue submissions should be created as an [issue in this repository](https:/
 
 ## Other Things to Include in your Issue
 
-
+Include the following details when applicable
 
 * API versions affected
 * Debug logs
 * Screenshots
 * Exception details
+
+## Issue closure
+
+Issues may be closed for any of the following reasons
+
+* The issue is acknowledged on the [Known Issues](https://success.salesforce.com/issues_index) site.
+* The issue is resolved
+* The issue submission doesn't provide enough detail
+* The issue isn't reproducable by any other community member
+* The issue isn't clear or lacks detail
+* The submitter isn't responding to questions
 
 ## Help
 
