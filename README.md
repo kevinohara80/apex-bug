@@ -20,9 +20,12 @@ All issue submissions should be created as an [issue in this repository](https:/
 
 ## Other Things to Include in your Issue
 
-Include the following details when applicable
+Always include:
 
 * API versions affected
+
+Include when applicable: 
+
 * Debug logs
 * Screenshots
 * Exception details
