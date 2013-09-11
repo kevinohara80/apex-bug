@@ -27,7 +27,7 @@ Include the following details when applicable
 * Screenshots
 * Exception details
 
-## Issue closure
+## Issue Closure
 
 Issues may be closed for any of the following reasons
 
