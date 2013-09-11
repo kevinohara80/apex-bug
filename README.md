@@ -1,7 +1,7 @@
 apex-bug
 ========
 
-Community-driven Apex and Visualforce bug/issue tracking
+Community-driven Apex and Visualforce bug/issue submission
 
 ## Overview
 
