@@ -18,7 +18,7 @@ All issue submissions should be created as an issue in this repository. The foll
 5. **Be responsive:** You are responsible for answering questions pertaining to the issues you submit.
 6. **Provide updates:** If your issue gets fixed, hits Known Issues, or changes in any other way, please provide updates back to your submitted issue.
 
-## Other Things to Include in your Issue (if known/avaialble)
+## Other Things to Include in your Issue (if known/available)
 
 * API versions affected
 * Debug logs
